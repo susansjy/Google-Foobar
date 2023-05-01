@@ -1,5 +1,5 @@
 # Google-Foobar
-The challenges I completed on Google Foobar in Python. Now I am working on Level 4 challenges.
+The challenges I overcome on Google Foobar in Python. Now I am working on Level 4 challenges.
 
 ## Level 1
 1-1 Braille Translation
